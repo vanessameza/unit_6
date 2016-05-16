@@ -168,6 +168,37 @@ p{
   padding: 0% 0 5% 0;
 }
 
+/*remove after assignment is turned in
+*/
+#left{
+  background-color: #FFB7CF;
+  border: 1px black solid;
+  padding: 20px;
+  float: left;
+  width: 30%;
+}
+
+/*remove after assignment is turned in
+*/
+#right {
+    background-color: #E55B88;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;   
+    width: 62%;
+}
+
+/*remove after assignment is turned in
+*/
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
 /* MOBILE MENU */
 
 #mobileMenu {
